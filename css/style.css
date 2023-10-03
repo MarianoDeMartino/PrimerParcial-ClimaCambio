@@ -282,9 +282,10 @@ form .form-control {
 }
 
 a {
-  color: #000; /* Puedes elegir el color que desees, en este caso, se utiliza negro (#000) */
-  text-decoration: none; /* Elimina el subrayado predeterminado de los enlaces */
+  color: #000;
+  text-decoration: none;
 }
 a:hover {
-  color: white; /* Puedes cambiar el color de "hover" según tus preferencias */
+  color: white;
 }
+
