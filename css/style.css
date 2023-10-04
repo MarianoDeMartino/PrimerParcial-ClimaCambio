@@ -33,7 +33,9 @@ a { text-decoration: none; }
   padding: 0 20px;
 }
 
-.large { font-size: 1.25rem; }
+.large { 
+  font-size: 1.50rem; 
+}
 
 .display-1 { 
   font-size: 70px; 
@@ -53,7 +55,6 @@ a { text-decoration: none; }
 .btn-light {
   background: lightseagreen;
   border: 1px solid lightseagreen
-  
 }
 
 .btn-outline {
@@ -202,16 +203,19 @@ form .form-control {
 
 #about h2 {
   padding-bottom: 20px;
+  font-size: 33px;
 }
 
 #about p {
   padding-bottom: 20px;
+  font-size: 20px;
 }
 
 .about-left {
   float: left;
   width: 50%;
   padding-right: 40px;
+  
 }
 
 .about-left .large {
