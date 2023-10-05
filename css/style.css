@@ -250,11 +250,11 @@ form .form-control {
 }
 
 .services-box a{
-    color: black; /* Puedes elegir el color que desees, en este caso, se utiliza negro (#000) */
-    text-decoration: none; /* Elimina el subrayado predeterminado de los enlaces */
+    color: black; 
+    text-decoration: none; 
 }
 .services-box a:hover {
-  color: gray; /* Puedes cambiar el color de "hover" según tus preferencias */
+  color: gray; 
 }
 
 #contact {
