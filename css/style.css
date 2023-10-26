@@ -279,9 +279,7 @@ form .form-control {
   border-radius: 5px;
 }
 
-footer{
-  margin-top: 5%;
-}
+
 
 #mainfooter {
   background: #6C757D;
@@ -312,4 +310,14 @@ a:hover {
 .text-section {
   flex: 1;
   padding: 10px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#contact {
+  margin-bottom: 200px; /* Ajusta el valor según sea necesario */
 }
