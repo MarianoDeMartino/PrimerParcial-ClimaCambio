@@ -319,5 +319,28 @@ footer {
 }
 
 #contact {
-  margin-bottom: 200px; /* Ajusta el valor según sea necesario */
+  margin-bottom: 200px; 
+}
+
+.container00 {
+  display: flex;
+  margin: 10px;
+}
+
+.left-container {
+  flex: 1;
+  padding: 10px;
+}
+
+.left-container img {
+  max-width: 100%;
+}
+
+.right-container {
+  flex: 1;
+  padding: 10px;
+}
+
+.right-container p {
+  font-size: 16px;
 }
