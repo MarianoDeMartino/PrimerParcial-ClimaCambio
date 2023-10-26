@@ -279,6 +279,9 @@ form .form-control {
   border-radius: 5px;
 }
 
+footer{
+  margin-top: 5%;
+}
 
 #mainfooter {
   background: #6C757D;
@@ -296,3 +299,17 @@ a:hover {
   color: white;
 }
 
+
+.container2 {
+  display: flex;
+  align-items: center;
+}
+
+.image-section {
+  flex: 1;
+}
+
+.text-section {
+  flex: 1;
+  padding: 10px;
+}
